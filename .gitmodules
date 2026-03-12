@@ -1,0 +1,6 @@
+[submodule "cloud-microservices-demo"]
+	path = cloud-microservices-demo
+	url = https://github.com/6ill/cloud-microservices-demo.git
+[submodule "microservices-boutique-kubernetes"]
+	path = microservices-boutique-kubernetes
+	url = https://github.com/6ill/microservices-boutique-kubernetes.git
