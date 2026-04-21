@@ -14,7 +14,7 @@ It demonstrates a complete, cost-optimized Cloud Native lifecycle: from infrastr
 * **Orchestration:** K3s (Lightweight Kubernetes)
 * **GitOps & Config Management:** Kluctl, Kustomize, Kluctl GitOps Controller (Source Controller)
 * **CI/CD:** GitHub Actions, GitHub Container Registry (GHCR)
-* **Observability:** VictoriaMetrics (Lightweight Prometheus alternative), Grafana
+* **Observability:** Prometheus, Grafana, Loki, Tempo
 * **Local Environment:** Devbox
 
 ---
